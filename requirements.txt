@@ -8,3 +8,5 @@ dotenv
 jupyter
 ipykernel
 ddgs
+pandas
+typing-extensions
