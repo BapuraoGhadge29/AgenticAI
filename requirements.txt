@@ -11,3 +11,4 @@ ddgs
 pandas
 typing-extensions
 langgraph-checkpoint-sqlite
+pylance
