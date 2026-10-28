@@ -1,0 +1,5 @@
+<html> <head> <title>Error 502</title> <link rel="stylesheet" type="text/css" href="https://shared.opendns.com/css/intelligent-proxy/intelligent-proxy.css"> </head> <body class="blank">
+<p><a class="footer-link" href="https://www.umbrella.com" rel="nofollow" id="cisco-secure-access-logo">Umbrella</a></p>
+<table class="topbottom"> <tr> <td> <p class="redbold"> <img class="status" src="https://shared.opendns.com/images/intelligent-proxy/fail.png" /> 502 Bad Gateway </p> </td> </tr> <tr> <td class="celltext"> <p>An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator.</p> </td> </tr> </table>
+<pre><p style="text-align: center;font-family: 'trade_gothic_lt_std'">This page is served by Cisco Secure Access.</p><p style="text-align: center;font-family: 'trade_gothic_lt_std'"> Server: swg-proxy-7b8dfc8b96-9mkmp.sigproxy.prod_aws_ap-south-1_1_0n</p><br> <script type="text/javascript">document.write((new Date()).toGMTString());</script></pre>
+</body> </html>

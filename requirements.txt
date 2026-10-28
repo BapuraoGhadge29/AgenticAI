@@ -12,3 +12,5 @@ pandas
 typing-extensions
 langgraph-checkpoint-sqlite
 pylance
+pypdf
+fonttools
